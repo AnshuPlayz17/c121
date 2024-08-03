@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    font-size: 30px;
+}
+span,h4,h5{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
